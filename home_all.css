@@ -1,0 +1,52 @@
+body{
+	background-color:black;
+}
+
+#physics{
+	padding:10px; 
+	background-color:orange;
+	margin:10px;
+	border-radius:20px;
+	text-align: center;
+	width:1300px;
+	height:100px;
+	font-size: 50px;
+	
+}
+
+#mathematics{
+	padding:10px; 
+	background-color:dimgray;
+	margin:10px;
+	border-radius:20px;
+	text-align: center;
+	width:1300px;
+	height:100px;
+	font-size: 50px;
+
+}
+
+
+#geo{
+	padding:10px; 
+	background-color:purple;
+	margin:10px;
+	border-radius:20px;
+	text-align: center;
+	width:1300px;
+	height:100px;
+	font-size: 50px;
+
+}
+
+#life{
+	padding:10px; 
+	background-color:green;
+	margin:10px;
+	border-radius:20px;
+	text-align: center;
+	width:1300px;
+	height:100px;
+	font-size: 50px;
+
+}
